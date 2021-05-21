@@ -95,10 +95,3 @@ void user_place(boat_t *player, int arg[], int cols, int rows)
     }
 }
 
-// process the user move, return 1 if the move is valid, else 0
-int user_move(int cols, int rows, int x_in, int y_in) 
-{
-    return 0;
-}
-
-

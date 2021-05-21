@@ -17,4 +17,3 @@ void board_print(int cols, int rows);
 int comp_move(boat_t *comp, int cols, int rows);
 void comp_place(boat_t *comp, int cols, int rows);
 void user_place(boat_t *player, int arg[], int cols, int rows);
-int user_move(int cols, int rows, int x_in, int y_in);
