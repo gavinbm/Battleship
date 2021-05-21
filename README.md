@@ -1,5 +1,10 @@
 Battleship!
 
-Play it in the terminal by running the command: python "batteshipterminal.py" while in the file's directory!
+to install:
+
+1) clone the repo
+2) go into the repo directory
+3) make install
+4) enter command "battleship" to play
 
 Enjoy :D
