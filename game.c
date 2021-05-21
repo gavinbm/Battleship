@@ -25,7 +25,6 @@ int main(int argc, char *argv[])
         while(strcmp(fgets(buf, MAXLEN, stdin), "exit") != 0) {
             
             // tokenize the input and store into arg
-            // tokenize the input and store into arg
             arg_no = 0;
             tok = strtok(buf, " ");
             while (tok != NULL && arg_no < MAXARGS) {
