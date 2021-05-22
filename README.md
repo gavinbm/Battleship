@@ -1,9 +1,9 @@
-#Battleship!
+# Battleship!
 
 Simple battleship game that you can play in your terminal. Plan to make this a CLI tool so you can play
 it from any directory on your system but that's a problem I'll solve after finals.
 
-#Installation
+# Installation
 1) clone the repo
 2) enter the repo directory
 3) enter the command: make
