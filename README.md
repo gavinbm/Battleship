@@ -7,7 +7,8 @@ it from any directory on your system but that's a problem I'll solve after final
 1) clone the repo
 2) enter the repo directory
 3) enter the command: make
-4) enter the command: ./battleship X Y
+4) enter the command: battleship X Y
+5) Enjoy!
 
 X and Y in step 4 determine the size of your board. X is the number of columns, Y is the number of rows.
 
